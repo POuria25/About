@@ -5,9 +5,9 @@
 | Language   |   Total Projects |   Public |   Private |
 |:-----------|-----------------:|---------:|----------:|
 | Unknown    |                2 |        0 |         2 |
-| Python     |                6 |        0 |         6 |
-| COBOL      |                2 |        0 |         2 |
-| C          |                6 |        0 |         6 |
-| JavaScript |                1 |        0 |         1 |
-| C++        |                2 |        0 |         2 |
-| Java       |                4 |        0 |         4 |
+| Python     |                6 |        6 |         0 |
+| COBOL      |                2 |        2 |         0 |
+| C          |                6 |        6 |         0 |
+| JavaScript |                1 |        1 |         0 |
+| C++        |                3 |        2 |         1 |
+| Java       |                4 |        4 |         0 |
