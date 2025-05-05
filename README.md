@@ -1,6 +1,9 @@
 
+## My Coding Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=POuria25&layout=pie) 
+
+## Projects by Language
 
 | Language   |   Total Projects |   Public |   Private |
 |:-----------|-----------------:|---------:|----------:|
